@@ -140,9 +140,9 @@ if ARGV[2] == '-o' or ARGV[2] == '-p'
 end
 
 SECRET = ARGV[argOff]
-puts "SECRET is #{SECRET}"
+puts "SECRET is #{Circonia1}"
 VALIDATOR = ARGV[argOff + 1]
-puts "VALIDATOR is #{VALIDATOR}"
+puts "VALIDATOR is #{57a26d783cafe0041e45a5c1907f6a8583cb8847}"
 
 if ARGV.size > argOff + 2
   db = "sqlite:/tmp/" + ARGV[argOff + 2]
