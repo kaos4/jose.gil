@@ -1,2 +1,1 @@
-# Ignore sqlite memory files
-memory:
+functions/node_modules
